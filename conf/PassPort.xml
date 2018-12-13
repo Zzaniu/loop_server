@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--用XMLSpy v2013 sp1产生的 XML文件(http://www.altova.com)-->
+<Signature xsi:noNamespaceSchemaLocation="SAS121.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-md5"/>
+		<Reference URI="String">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<DigestValue/>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue/>
+	<KeyInfo>
+		<KeyName>aa</KeyName>
+	</KeyInfo>
+	<Object Id="String">
+		<Package>
+			<EnvelopInfo>
+				<version>1.0</version>
+				<business_id/>
+				<message_id>SAS121201806220000001</message_id>
+				<file_name>SAS121201806220000001</file_name>
+				<message_type>SAS121</message_type>
+				<sender_id>DXPENT0000016069</sender_id>
+				<receiver_id>DXPDSWNEMS000001</receiver_id>
+				<send_time>2018-06-17T09:30:47</send_time>
+				<Ic_Card>8910001071201</Ic_Card>
+			</EnvelopInfo>
+			<DataInfo>
+				<PocketInfo>
+				</PocketInfo>
+				<BussinessData>
+					<PassPortMessage>
+						<PassportHead>
+							<SeqNo/>
+							<PassportNo/>
+							<PassportTypecd/>
+							<MasterCuscd/>
+							<DclTypecd/>
+							<IoTypecd/>
+							<BindTypecd/>
+							<RltTbTypecd/>
+							<RltNo/>
+							<AreainOriactNo/>
+							<AreainEtpsno/>
+							<AreainEtpsNm/>
+							<AreainEtpsSccd/>
+							<VehicleNo/>
+							<VehicleIcNo/>
+							<ContainerNo/>
+							<VehicleWt/>
+							<VehicleFrameNo/>
+							<VehicleFrameWt/>
+							<ContainerType/>
+							<ContainerWt/>
+							<TotalWt/>
+							<TotalGrossWt/>
+							<TotalNetWt/>
+							<DclErConc/>
+							<DclTime/>
+							<DclEtpsno>4403180896</DclEtpsno>
+							<DclEtpsNm>深圳倍通物流科技有限公司</DclEtpsNm>
+							<DclEtpsSccd>91440300796611420W</DclEtpsSccd>
+							<InputCode>4403180896</InputCode>
+							<InputSccd>91440300796611420W</InputSccd>
+							<InputName>深圳倍通物流科技有限公司</InputName>
+							<EtpsPreentNo>TESTSAS121000001</EtpsPreentNo>
+							<Rmk>TEST</Rmk>
+							<Col1/>
+							<Col2/>
+							<Col3/>
+							<Col4/>
+						</PassportHead>
+						<PassportAcmp>
+							<SeqNo/>
+							<PassPortNo/>
+							<RtlBillTypecd/>
+							<RtlBillNo/>
+						</PassportAcmp>
+						<OperCusRegCode>4403180896</OperCusRegCode>
+					</PassPortMessage>
+					<DelcareFlag>0</DelcareFlag>
+				</BussinessData>
+			</DataInfo>
+		</Package>
+	</Object>
+</Signature>

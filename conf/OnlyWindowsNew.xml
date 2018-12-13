@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2013 sp1 () 使用XMLSpy v编辑的 (http://www.altova.com) by -->
+<DecMessage xmlns="http://www.chinaport.gov.cn/dec_3_1">
+	<DecHead>
+		<SeqNo />
+		<IEFlag />
+		<Type />
+		<AgentCode />
+		<AgentName />
+		<ApprNo />
+		<BillNo />
+		<ContrNo />
+		<CustomMaster />
+		<CutMode />
+		<DistinatePort />
+		<FeeCurr />
+		<FeeMark />
+		<FeeRate />
+		<GrossWet />
+		<IEDate />
+		<IEPort />
+		<InsurCurr />
+		<InsurMark />
+		<InsurRate />
+		<LicenseNo />
+		<ManualNo />
+		<NetWt />
+		<NoteS />
+		<OtherCurr />
+		<OtherMark />
+		<OtherRate />
+		<OwnerCode />
+		<OwnerName />
+		<PackNo />
+		<TradeCode />
+		<TradeCountry />
+		<TradeMode />
+		<TradeName />
+		<TrafMode />
+		<TrafName />
+		<TransMode />
+		<WrapType />
+		<EntryId />
+		<PreEntryId />
+		<EdiId />
+		<Risk />
+		<CopName />
+		<CopCode />
+		<EntryType />
+		<PDate />
+		<TypistNo />
+		<InputerName />
+		<PartenerID />
+		<TgdNo />
+		<DataSource />
+		<DeclTrnRel />
+		<ChkSurety />
+		<BillType />
+		<CopCodeScc />
+		<OwnerCodeScc />
+		<AgentCodeScc />
+		<TradeCoScc />
+		<PromiseItmes />
+		<TradeAreaCode />
+		<CheckFlow />
+		<TaxAaminMark />
+		<MarkNo />
+		<DespPortCode />
+		<EntyPortCode />
+		<GoodsPlace />
+		<BLNo />
+		<InspOrgCode />
+		<SpecDeclFlag />
+		<PurpOrgCode />
+		<DespDate />
+		<CmplDschrgDt />
+		<CorrelationReasonFlag />
+		<VsaOrgCode />
+		<OrigBoxFlag />
+		<DeclareName />
+		<NoOtherPack />
+		<OrgCode />
+		<OverseasConsignorCode />
+		<OverseasConsignorCname />
+		<OverseasConsignorEname />
+		<OverseasConsignorAddr />
+		<OverseasConsigneeCode />
+		<OverseasConsigneeEname />
+		<DomesticConsigneeEname />
+		<CorrelationNo />
+		<EdiRemark />
+		<EdiRemark2/ >
+	</DecHead>
+	<DecLists>
+		<DecList>
+			<ClassMark />
+			<CodeTS />
+			<ContrItem />
+			<DeclPrice />
+			<DutyMode />
+			<Factor />
+			<GModel />
+			<GName />
+			<GNo />
+			<OriginCountry />
+			<TradeCurr />
+			<DeclTotal />
+			<GQty />
+			<FirstQty />
+			<SecondQty />
+			<GUnit />
+			<FirstUnit />
+			<SecondUnit />
+			<UseTo />
+			<WorkUsd />
+			<ExgNo />
+			<ExgVersion />
+			<DestinationCountry />
+			<CiqCode />
+			<DeclGoodsEname />
+			<OrigPlaceCode />
+			<Purpose />
+			<ProdValidDt />
+			<ProdQgp />
+			<GoodsAttr />
+			<Stuff />
+			<Uncode />
+			<DangName />
+			<DangPackType />
+			<DangPackSpec />
+			<EngManEntCnm />
+			<NoDangFlag />
+			<DestCode />
+			<GoodsSpec />
+			<GoodsModel />
+			<GoodsBrand />
+			<ProduceDate />
+			<ProdBatchNo />
+			<DistrictCode />
+			<CiqName />
+			<DecGoodsLimits>
+				<DecGoodsLimit>
+					<GoodsNo />
+					<LicTypeCode />
+					<LicenceNo />
+					<LicWrtofDetailNo />
+					<LicWrtofQty />
+					<DecGoodsLimitVin>
+						<LicenceNo />
+						<LicTypeCode />
+						<VinNo />
+						<BillLadDate />
+						<QualityQgp />
+						<MotorNo />
+						<VinCode />
+						<ChassisNo />
+						<InvoiceNum />
+						<ProdCnnm />
+						<ProdEnnm />
+						<ModelEn />
+						<PricePerUnit />
+					</DecGoodsLimitVin>
+				</DecGoodsLimit>
+			</DecGoodsLimits>
+			<MnufctrRegNo />
+			<MnufctrRegName />
+		</DecList>
+	</DecLists>
+	<DecContainers>
+		<Container>
+			<ContainerId />
+			<ContainerMd />
+			<GoodsNo />
+			<LclFlag />
+			<ContainerWt />
+		</Container>
+	</DecContainers>
+	<DecLicenseDocus>
+		<LicenseDocu>
+			<DocuCode />
+			<CertCode />
+		</LicenseDocu>
+	</DecLicenseDocus>
+	<DecRequestCerts>
+		<DecRequestCert>
+			<AppCertCode />
+			<ApplOri />
+			<ApplCopyQuan />
+		</DecRequestCert>
+	</DecRequestCerts>
+	<DecOtherPacks>
+		<DecOtherPack>
+			<PackQty />
+			<PackType />
+		</DecOtherPack>
+	</DecOtherPacks>
+	<DecCopLimits>
+		<DecCopLimit>
+			<EntQualifNo />
+			<EntQualifTypeCode />
+		</DecCopLimit>
+	</DecCopLimits>
+	<DecUsers>
+		<DecUser>
+			<UseOrgPersonCode />
+			<UseOrgPersonTel />
+		</DecUser>
+	</DecUsers>
+	<DecMarkLobs>
+		<DecMarkLob>
+			<AttachName />
+			<AttachType />
+			<Attachment />
+		</DecMarkLob>
+	</DecMarkLobs>
+	<DecFreeTxt>
+		<RelId />
+		<RelManNo />
+		<BonNo />
+		<VoyNo />
+		<DecBpNo />
+		<CusFie />
+		<DecNo />
+	</DecFreeTxt>
+	<DecSign>
+		<OperType />
+		<ICCode />
+		<CopCode />
+		<OperName />
+		<ClientSeqNo />
+		<Sign />
+		<SignDate />
+		<Certificate />
+		<HostId />
+		<BillSeqNo />
+		<DomainId />
+		<Note />
+	</DecSign>
+	<EdocRealation>
+		<EdocID />
+		<EdocCode />
+		<EdocFomatType />
+		<OpNote />
+		<EdocCopId />
+		<EdocOwnerCode />
+		<SignUnit />
+		<SignTime />
+		<EdocOwnerName />
+		<EdocSize />
+	</EdocRealation>
+	<EcoRelation>
+		<CertType />
+		<EcoCertNo />
+		<DecGNo />
+		<EcoGNo />
+		<ExtendFiled />
+	</EcoRelation>
+	<DecRisk>
+		<Risk />
+		<Sign />
+		<SignDate />
+		<Note />
+	</DecRisk>
+</DecMessage>

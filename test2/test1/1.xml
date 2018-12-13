@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:DecImportResponse xmlns:ns2="http://www.chinaport.gov.cn/dec">
+    <ns2:ResponseCode>0</ns2:ResponseCode>
+    <ns2:ErrorMessage>调用成功</ns2:ErrorMessage>
+    <ns2:ClientSeqNo>201802260951588560</ns2:ClientSeqNo>
+    <ns2:SeqNo>Z11000001313617428</ns2:SeqNo>
+</ns2:DecImportResponse>
+
+
+        Date: Mon, 26 Feb 2018 01:52:19 GMT
+        Message-Id: <1519609939342.60808460@iFwKnYVrbz7DbcMI4hTN4I5R>
+        MIME-Version: 1.0
+        Content-Type: application/octet-stream
+        Content-Transfer-Encoding: binary
+        EDIINT-Features: CEM
+        AS3-Version: 1.2
+        AS3-To: DXPENT0000016069
+        AS3-From: 53000001
+
+        <?xml version="1.0" encoding="UTF-8" ?>
+<DxpMsg ver="1.0" Id="CL01" xmlns="http://www.chinaport.gov.cn/dxp" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<TransInfo>
+    <CopMsgId>DXPENT0000016069201802260951588560</CopMsgId>
+    <SenderId>DXPEDCDEC0000001</SenderId>
+    <ReceiverIds>
+        <ReceiverId>DXPENT0000016069</ReceiverId>
+    </ReceiverIds>
+    <CreatTime>2018-02-26T09:52:14.670+08:00</CreatTime>
+    <MsgType>DECMSG</MsgType>
+</TransInfo>
+<Data>
+    PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxuczI6RGVjSW1wb3J0UmVzcG9uc2UgeG1sbnM6bnMyPSJodHRwOi8vd3d3LmNoaW5hcG9ydC5nb3YuY24vZGVjIj48bnMyOlJlc3BvbnNlQ29kZT4wPC9uczI6UmVzcG9uc2VDb2RlPjxuczI6RXJyb3JNZXNzYWdlPuiwg+eUqOaIkOWKnzwvbnMyOkVycm9yTWVzc2FnZT48bnMyOkNsaWVudFNlcU5vPjIwMTgwMjI2MDk1MTU4ODU2MDwvbnMyOkNsaWVudFNlcU5vPjxuczI6U2VxTm8+WjExMDAwMDAxMzEzNjE3NDI4PC9uczI6U2VxTm8+PC9uczI6RGVjSW1wb3J0UmVzcG9uc2U+
+</Data>
+<AddInfo>
+    <FileName>DPM20180226095214669000000000832978822</FileName>
+    <IsText Encode="UTF-8"/>
+</AddInfo>
+</DxpMsg>

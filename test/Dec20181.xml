@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DecMessage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.chinaport.gov.cn/dec">
+  <DecHead>
+    <SeqNo />
+    <IEFlag>E</IEFlag>
+    <Type />
+    <AgentCode>4403180896</AgentCode>
+    <AgentName>深圳倍通物流科技有限公司</AgentName>
+    <ApprNo />
+    <BillNo />
+    <ContrNo>2017-001</ContrNo>
+    <CustomMaster>5317</CustomMaster>
+    <CutMode>503</CutMode>
+    <DistinatePort>142</DistinatePort>
+    <DistrictCode>44031</DistrictCode>
+    <FeeCurr />
+    <FeeMark />
+    <FeeRate />
+    <GrossWet>762.1</GrossWet>
+    <IEDate />
+    <IEPort>5317</IEPort>
+    <InRatio />
+    <InsurCurr />
+    <InsurMark />
+    <InsurRate />
+    <LicenseNo />
+    <ManualNo>C53197450259</ManualNo>
+    <NetWt>652.83</NetWt>
+    <NoteS>保税物流中心/入倍通仓，入库单号：</NoteS>
+    <OtherCurr />
+    <OtherMark />
+    <OtherRate />
+    <OwnerCode>4403944047</OwnerCode>
+    <OwnerName>联振电子（深圳）有限公司</OwnerName>
+    <PackNo>79</PackNo>
+    <PayWay />
+    <PaymentMark />
+    <TradeCode>4403944047</TradeCode>
+    <TradeCountry>142</TradeCountry>
+    <TradeMode>0615</TradeMode>
+    <TradeName>联振电子（深圳）有限公司</TradeName>
+    <TrafMode>W</TrafMode>
+    <TrafName>粤B6R81J</TrafName>
+    <TransMode>3</TransMode>
+    <WrapType>2</WrapType>
+    <EntryId />
+    <PreEntryId />
+    <EdiId>1</EdiId>
+    <Risk />
+    <CopName>深圳市倍通供应链服务有限公司</CopName>
+    <CopCode />
+    <EntryType>M</EntryType>
+    <PDate>20180201</PDate>
+    <TypistNo />
+    <InputerName />
+    <PartenerID />
+    <TgdNo />
+    <DataSource />
+    <DeclTrnRel>0</DeclTrnRel>
+    <ChkSurety>0</ChkSurety>
+    <BillType>1</BillType>
+    <AgentCodeScc>914403007542554132</AgentCodeScc>
+    <OwnerCodeScc>91440300618932803R</OwnerCodeScc>
+    <TradeCodeScc>91440300618932803R</TradeCodeScc>
+    <CopCodeScc />
+    <PromiseItmes>000</PromiseItmes>
+    <TradeAreaCode>142</TradeAreaCode>
+    <CheckFlow />
+  </DecHead>
+  <DecLists>
+    <DecList>
+      <ClassMark />
+      <CodeTS>8504500000</CodeTS>
+      <ContrItem>11</ContrItem>
+      <DeclPrice>0.0414</DeclPrice>
+      <DutyMode>3</DutyMode>
+      <Factor />
+      <GModel>稳定电流用|无品牌|无型号|0.00165KG/个</GModel>
+      <GName>电感器W0165</GName>
+      <GNo>1</GNo>
+      <OriginCountry>142</OriginCountry>
+      <TradeCurr>502</TradeCurr>
+      <DeclTotal>729.34</DeclTotal>
+      <GQty>17600</GQty>
+      <FirstQty>17600</FirstQty>
+      <SecondQty />
+      <GUnit>007</GUnit>
+      <FirstUnit>007</FirstUnit>
+      <SecondUnit />
+      <UseTo />
+      <WorkUsd />
+      <ExgNo />
+      <ExgVersion />
+      <DestinationCountry>142</DestinationCountry>
+    </DecList>
+    <DecList>
+      <ClassMark />
+      <CodeTS>8504500000</CodeTS>
+      <ContrItem>15</ContrItem>
+      <DeclPrice>0.0544</DeclPrice>
+      <DutyMode>3</DutyMode>
+      <Factor />
+      <GModel>稳定电流用|无品牌|无型号|0.00290KG/个</GModel>
+      <GName>电感器W0290</GName>
+      <GNo>2</GNo>
+      <OriginCountry>142</OriginCountry>
+      <TradeCurr>502</TradeCurr>
+      <DeclTotal>6885.82</DeclTotal>
+      <GQty>126640</GQty>
+      <FirstQty>126640</FirstQty>
+      <SecondQty />
+      <GUnit>007</GUnit>
+      <FirstUnit>007</FirstUnit>
+      <SecondUnit />
+      <UseTo />
+      <WorkUsd />
+      <ExgNo />
+      <ExgVersion />
+      <DestinationCountry>142</DestinationCountry>
+    </DecList>
+    <DecList>
+      <ClassMark />
+      <CodeTS>8504500000</CodeTS>
+      <ContrItem>19</ContrItem>
+      <DeclPrice>0.064</DeclPrice>
+      <DutyMode>3</DutyMode>
+      <Factor />
+      <GModel>稳定电流用|无品牌|无型号|0.00419KG/个</GModel>
+      <GName>电感器W0419</GName>
+      <GNo>3</GNo>
+      <OriginCountry>142</OriginCountry>
+      <TradeCurr>502</TradeCurr>
+      <DeclTotal>2755.54</DeclTotal>
+      <GQty>43050</GQty>
+      <FirstQty>43050</FirstQty>
+      <SecondQty />
+      <GUnit>007</GUnit>
+      <FirstUnit>007</FirstUnit>
+      <SecondUnit />
+      <UseTo />
+      <WorkUsd />
+      <ExgNo />
+      <ExgVersion />
+      <DestinationCountry>142</DestinationCountry>
+    </DecList>
+    <DecList>
+      <ClassMark />
+      <CodeTS>8504500000</CodeTS>
+      <ContrItem>22</ContrItem>
+      <DeclPrice>0.065</DeclPrice>
+      <DutyMode>3</DutyMode>
+      <Factor />
+      <GModel>稳定电流用|无品牌|无型号|0.00500KG/个</GModel>
+      <GName>电感器W0500</GName>
+      <GNo>4</GNo>
+      <OriginCountry>142</OriginCountry>
+      <TradeCurr>502</TradeCurr>
+      <DeclTotal>989.28</DeclTotal>
+      <GQty>15230</GQty>
+      <FirstQty>15230</FirstQty>
+      <SecondQty />
+      <GUnit>007</GUnit>
+      <FirstUnit>007</FirstUnit>
+      <SecondUnit />
+      <UseTo />
+      <WorkUsd />
+      <ExgNo />
+      <ExgVersion />
+      <DestinationCountry>142</DestinationCountry>
+    </DecList>
+  </DecLists>
+  <DecContainers />
+  <DecLicenseDocus />
+  <DecFreeTxt>
+    <RelId />
+    <RelManNo />
+    <BonNo>4403W</BonNo>
+    <VoyNo />
+    <DecBpNo />
+    <CusFie />
+    <DecNo />
+  </DecFreeTxt>
+  <DecSign>
+    <OperType>G</OperType>
+    <ICCode>8930000091195</ICCode>
+    <CopCode>796611420</CopCode>
+    <OperName />
+    <ClientSeqNo>201802011651490001</ClientSeqNo>
+    <Sign />
+    <SignDate />
+    <Certificate />
+    <HostId />
+  </DecSign>
+  <EdocRealation>
+    <EdocID>######</EdocID>
+    <EdocCode>########</EdocCode>
+    <EdocFomatType>##</EdocFomatType>
+    <OpNote />
+    <EdocCopId />
+    <EdocOwnerCode>##########</EdocOwnerCode>
+    <SignUnit />
+    <SignTime>20180201165158</SignTime>
+    <EdocOwnerName />
+    <EdocSize />
+  </EdocRealation>
+</DecMessage>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DecMessage xmlns="http://www.chinaport.gov.cn/dec">
+    <DecHead>
+        <SeqNo />
+        <IEFlag>I</IEFlag>
+        <Type />
+        <AgentCode>4403180896</AgentCode>
+        <AgentName>深圳倍通物流科技有限公司</AgentName>
+        <ApprNo />
+        <BillNo />
+        <ContrNo>2017-002</ContrNo>
+        <CustomMaster>5317</CustomMaster>
+        <CutMode>503</CutMode>
+        <DistinatePort>142</DistinatePort>
+        <DistrictCode>44031</DistrictCode>
+        <FeeCurr />
+        <FeeMark />
+        <FeeRate>0.0000</FeeRate>
+        <GrossWet>1080.0000</GrossWet>
+        <IEDate />
+        <IEPort>5317</IEPort>
+        <InRatio>0.0000</InRatio>
+        <InsurCurr />
+        <InsurMark />
+        <InsurRate>0.0000</InsurRate>
+        <LicenseNo />
+        <ManualNo>C53097450089</ManualNo>
+        <NetWt>1007.1200</NetWt>
+        <NoteS />
+        <OtherCurr />
+        <OtherMark />
+        <OtherRate>0.00000</OtherRate>
+        <OwnerCode>4403941779</OwnerCode>
+        <OwnerName>山内精密电子（深圳）有限公司</OwnerName>
+        <PackNo>85</PackNo>
+        <PayWay />
+        <PaymentMark />
+        <TradeCode>4403941779</TradeCode>
+        <TradeCountry>121</TradeCountry>
+        <TradeMode>0615</TradeMode>
+        <TradeName>山内精密电子（深圳）有限公司</TradeName>
+        <TrafMode>W</TrafMode>
+        <TrafName>粤B5E69G</TrafName>
+        <TransMode>1</TransMode>
+        <WrapType>7</WrapType>
+        <EntryId />
+        <PreEntryId />
+        <EdiId />
+        <Risk />
+        <CopName>深圳市倍通供应链服务有限公司</CopName>
+        <CopCode />
+        <EntryType>M</EntryType>
+        <PDate>20171231</PDate>
+        <TypistNo />
+        <InputerName />
+        <PartenerID />
+        <TgdNo />
+        <DataSource />
+        <DeclTrnRel />
+        <ChkSurety />
+        <BillType />
+        <AgentCodeScc />
+        <OwnerCodeScc>91440300795439964P</OwnerCodeScc>
+        <TradeCodeScc>91440300795439964P</TradeCodeScc>
+        <CopCodeScc />
+        <PromiseItmes>000</PromiseItmes>
+        <TradeAreaCode>121</TradeAreaCode>
+        <CheckFlow />
+    </DecHead>
+    <DecLists>
+        <DecList>
+            <ClassMark />
+            <CodeTS />
+            <ContrItem>34</ContrItem>
+            <DeclPrice>3.3329</DeclPrice>
+            <DutyMode>3</DutyMode>
+            <Factor>None</Factor>
+            <GModel />
+            <GName>多功能一体机用钢铁滚轴</GName>
+            <GNo>1</GNo>
+            <OriginCountry>121</OriginCountry>
+            <TradeCurr>502</TradeCurr>
+            <DeclTotal>3356.60</DeclTotal>
+            <GQty>1007.1200</GQty>
+            <FirstQty>1007.1200</FirstQty>
+            <SecondQty>0.0000</SecondQty>
+            <GUnit>035</GUnit>
+            <FirstUnit>035</FirstUnit>
+            <SecondUnit />
+            <UseTo />
+            <WorkUsd>0.0000</WorkUsd>
+            <ExgNo />
+            <ExgVersion />
+            <DestinationCountry>121</DestinationCountry>
+        </DecList>
+
+    </DecLists>
+    <DecContainers />
+    <DecLicenseDocus />
+    <DecFreeTxt>
+        <RelId />
+        <RelManNo />
+        <BonNo />
+        <VoyNo />
+        <DecBpNo />
+        <CusFie />
+        <DecNo />
+    </DecFreeTxt>
+    <DecSign>
+        <OperType />
+        <ICCode />
+        <CopCode />
+        <OperName />
+        <ClientSeqNo />
+        <Sign />
+        <SignDate />
+        <Certificate />
+        <HostId />
+    </DecSign>
+    <EdocRealation>
+        <EdocID>######</EdocID>
+        <EdocCode>########</EdocCode>
+        <EdocFomatType>##</EdocFomatType>
+        <OpNote />
+        <EdocCopId />
+        <EdocOwnerCode>##########</EdocOwnerCode>
+        <SignUnit />
+        <SignTime />
+        <EdocOwnerName />
+        <EdocSize />
+    </EdocRealation>
+</DecMessage>
